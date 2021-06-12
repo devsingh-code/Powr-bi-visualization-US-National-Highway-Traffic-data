@@ -10,12 +10,16 @@ It is based on real life data <a href="https://en.wikipedia.org/wiki/Transportat
 # Dashboard
 
 <p align="center">
-<img src="">
+<img src="https://github.com/devsingh-code/Powr-bi-visualization-US-National-Highway-Traffic-data/blob/main/Dashboard%20Screenshots/Dashboard.JPG">
 </p>
 
 # Other Drill through pages for more detail
 
 <p align="center">
-<img src="">
+<img src="https://github.com/devsingh-code/Powr-bi-visualization-US-National-Highway-Traffic-data/blob/main/Dashboard%20Screenshots/report1.JPG">
+  <br>
+  <img src="https://github.com/devsingh-code/Powr-bi-visualization-US-National-Highway-Traffic-data/blob/main/Dashboard%20Screenshots/report2.JPG">
+  <br>
+  <img src="https://github.com/devsingh-code/Powr-bi-visualization-US-National-Highway-Traffic-data/blob/main/Dashboard%20Screenshots/report3.JPG">
 </p>
 
